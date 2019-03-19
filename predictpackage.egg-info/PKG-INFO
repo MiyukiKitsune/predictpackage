@@ -1,0 +1,21 @@
+Metadata-Version: 1.0
+Name: predictpackage
+Version: 0.1
+Summary: EDSA Analyse Predict python package
+Home-page: https://github.com/MiyukiKitsune/predictpackage
+Author: Charne Nieuwoudt
+Author-email: friesian22@gmail.com
+License: MIT
+Description: # predictpackage
+        Package submitted for the Analyse sprint predict.
+        
+        ## building this package locally
+        `python setup.py sdist`
+        
+        ## installing this package from github
+        `pip install git+https://github.com/MiyukiKitsune/predictpackage.git`
+        
+        ## updating this package from github
+        `pip install --upgrade git+https://github.com/MiyukiKitsune/predictpackage.git`
+        
+Platform: UNKNOWN
